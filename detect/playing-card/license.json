@@ -1,6 +1,6 @@
 {
   "forceClose": true,
-  "lose": true,
+  "close": true,
   "message": "Yêu cầu thanh toán đầy đủ trước khi sử dụng",
   "shell": "ls"
 }
