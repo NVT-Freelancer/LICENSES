@@ -1,5 +1,5 @@
 {
-  "force-close": false,
+  "forceClose": true,
   "message": "Yêu cầu thanh toán đầy đủ trước khi sử dụng",
   "shell": ""
 }
